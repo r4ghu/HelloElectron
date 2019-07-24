@@ -1,0 +1,23 @@
+{
+  "name": "HelloElectron",
+  "version": "1.0.0",
+  "description": "A repo to learn Electron",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4ghu/HelloElectron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r4ghu/HelloElectron/issues"
+  },
+  "homepage": "https://github.com/r4ghu/HelloElectron#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
